@@ -1,0 +1,2 @@
+- Define core features of Life OS app
+- Decide on tech stack
