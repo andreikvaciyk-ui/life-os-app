@@ -1,2 +1,4 @@
 Life OS App
 My personal habit and planning assistant.
+
+v0.1 – first rough idea of Life OS app
